@@ -4,3 +4,4 @@ I wonder How this can happen
 
 Now add this change to the git staging.
 Run: 
+Now add the HTML headers (<head> section) to the “Hello, World” page. 
