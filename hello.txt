@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-let
-=======
-Atlassian
->>>>>>> bb
+Thsi should be changed
